@@ -1,1 +1,1 @@
-Minha academia focada apenas em Html onde eu faço uma página web simples para uma atividade
+Minha academia focada em Html e Css onde eu faço uma página web simples para uma atividade
